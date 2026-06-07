@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
 <a>
-  <img src="/01-51-44.gif" alt="Dashboard Demo" width="700">
+  <img src="/dash.gif" alt="Dashboard Demo" width="700">
 </a>
 
 ## Introduction
